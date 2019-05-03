@@ -2,7 +2,27 @@
   "characters": [
     {
       "id": 1,
-      "name": "Steve Rodgers"
+      "name": "Steve Rogers"
+    },
+    {
+      "id": 2,
+      "name": "Tony Stark"
+    },
+    {
+      "id": 3,
+      "name" : "Bruce Banner"
+    },
+    {
+      "id": 4,
+      "name": "Thor"
+    },
+    {
+      "id": 5,
+      "name": "Clint Barton"
+    },
+    {
+      "id": 6,
+      "name": "Natasha Romanoff"
     }
   ]
 }

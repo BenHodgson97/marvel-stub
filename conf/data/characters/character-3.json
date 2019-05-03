@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "name": "Bruce Banner",
+  "alias": "Hulk",
+  "age": 53,
+  "powers": ["Superhuman Strength","Superhuman Speed","Superhuman Endurance","Superhuman Durability"],
+  "status": "Alive"
+}

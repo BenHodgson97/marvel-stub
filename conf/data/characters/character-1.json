@@ -1,7 +1,8 @@
 {
   "id": 1,
-  "name": "Steve Rodgers",
+  "name": "Steve Rogers",
   "alias": "Captain America",
-  "powers": [],
-  "deceased": false
+  "age": 105,
+  "powers": ["Peak Human Conditioning"],
+  "status": "Alive"
 }
