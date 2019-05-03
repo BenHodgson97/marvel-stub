@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "name": "Tony Stark",
+  "alias": "Iron Man",
+  "age": 53,
+  "powers": ["Genius Level IQ"],
+  "status": "Dead"
+}

@@ -15,7 +15,7 @@ case class CharacterFull(
                     alias: Option[String] = None,
                     age: Option[Int] = None,
                     powers: List[String],
-                    deceased: Boolean
+                    status: String
                     )
 
 object CharacterFull {
