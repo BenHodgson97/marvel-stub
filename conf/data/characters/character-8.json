@@ -1,0 +1,8 @@
+{
+  "id": 8,
+  "name": "Peter Parker",
+  "alias": "Spiderman",
+  "age": 16,
+  "powers": ["Superhuman Strength", "Superhuman Agility", "The Peter Tingle"],
+  "status": "Alive"
+}
